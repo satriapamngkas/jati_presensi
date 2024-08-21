@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64200159819",
+    "project_id": "jati-presensi",
+    "storage_bucket": "jati-presensi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64200159819:android:e5f45f7709d9c5605913ce",
+        "android_client_info": {
+          "package_name": "com.example.jati_presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDui1oQJBwVoDOZ_ejqSkjIN26v0uIMLYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
